@@ -1,2 +1,2 @@
 # website live at :
-https://devaftab.github.io/Alizakitchen.github.io/
+https://devaftab.github.io/Alizakitchen
